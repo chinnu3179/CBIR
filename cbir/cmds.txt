@@ -1,0 +1,4 @@
+python index_color.py --index_color index_color.csv
+python index_gabor.py --dataset dataset --index_gabor index_gabor.csv
+python search1.py --query query.jpg --class color
+python search1.py --query query.jpg --class gabor
